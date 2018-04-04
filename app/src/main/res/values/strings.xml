@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuizzGame</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="end_toast">Test complete. Out of a maximum of 100 points, you scored: </string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+    <string name="next">Next Question</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="cheats_left">Cheats left: </string>
+    <string name="API">API Level</string>
+
+    <string name="question_helsinki">Helsinki is in Finland</string>
+    <string name="question_haghel">Haaga-Helia teaches physics</string>
+    <string name="question_mario">Mario was best seller on PlayStation</string>
+    <string name="question_android">Android mobile platform was announced in 2010</string>
+    <string name="question_sata">SATA cables are faster than PATA cables</string>
+    <string name="question_creator">The creator of this app is named Tony</string>
+    <string name="question_relativity">Special relativity was discovered before general relativity</string>
+    <string name="question_earth">Earth is 6 billion years old</string>
+    <string name="question_moon">The Moon is bigger than the planet Mercury</string>
+    <string name="question_atlantic">The Atlantic Ocean is the biggest ocean on Earth</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+</resources>
